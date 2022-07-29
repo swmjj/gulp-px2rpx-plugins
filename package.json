@@ -1,0 +1,24 @@
+{
+  "name": "gulp-pxtorpx-am",
+  "version": "0.0.1",
+  "description": "px to rpx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.aam.test/13533825690/gulp-pxtorpx-am.git"
+  },
+  "keywords": [
+    "px",
+    "to",
+    "rpx"
+  ],
+  "author": "martin.ma",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^3.0.0",
+    "through-gulp": "^0.5.0"
+  }
+}
